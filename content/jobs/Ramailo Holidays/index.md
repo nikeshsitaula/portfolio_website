@@ -4,7 +4,7 @@ title: 'Web Developer'
 company: 'Ramailo Holidays'
 location: 'Kathmandu, Nepal'
 range: 'November - April 2019'
-url: 'https://ramailoholidays.com.np/'
+url: ''
 ---
 
 - Developed and maintained code for the company and creating websites primarily using HTML, CSS, Sass, JavaScript,jQuery, Ajax, PHP/Laravel

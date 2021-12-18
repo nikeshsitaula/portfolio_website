@@ -2,7 +2,7 @@
 date: '1'
 title: 'Sabre Management System'
 cover: './sabre2.png'
-github: 'https://github.com/nikeshsitaula/sabre'
+github: ''
 external: ''
 tech:
   - Laravel

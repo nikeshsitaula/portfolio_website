@@ -4,7 +4,7 @@ title: 'Web Developer'
 company: 'Sabre Nepal'
 location: 'Kathmandu, Nepal'
 range: 'May - February 2020'
-url: 'https://www.sabrenepal.com/'
+url: 'http://www.sabrenepal.com/'
 ---
 
 - Created CRMs such as Employee, Incentive Management System to keep track of employee’s records.

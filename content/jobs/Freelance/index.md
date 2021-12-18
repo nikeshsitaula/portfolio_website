@@ -1,10 +1,10 @@
 ---
 date: '2017-12-21'
 title: 'Web Developer'
-company: 'Freelance Developments'
+company: 'Freelance'
 location: 'Kathmandu, Nepal'
 range: 'February - October 2018'
-url: 'https://www.apple.com/music/'
+url: ''
 ---
 
 - Responsible in development of UI pages to achieve Single Page Paradigm.
